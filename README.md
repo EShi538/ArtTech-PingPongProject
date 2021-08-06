@@ -1,2 +1,5 @@
 # ArtTech-PingPongProject
-Repo for the code of the PPP (very epic acronym for "Ping Pong Project")
+
+This is our storage of our code for our current art and tech project.
+
+~Eric
